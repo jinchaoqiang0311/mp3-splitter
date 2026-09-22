@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Qoder 工作区标记
+.aicoding-chat-workspace
+
+# 测试输出
+engine_out.txt
+smoke_out.txt
+
+# 音视频样本(避免误提交大文件)
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.wma
+*.mp4
+*.mkv
+*.webm
+
+# 系统
+Thumbs.db
+desktop.ini
